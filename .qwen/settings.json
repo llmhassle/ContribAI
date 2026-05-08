@@ -2,11 +2,11 @@
   "permissions": {
     "allow": [
       "Bash(git commit *)",
-      "Bash(head *)",
-      "Bash(sed *)",
-      "Bash(echo *)",
-      "Bash(mv *)",
-      "Bash(rm *)",
+      
+      
+      
+      
+      
       "Bash(git tag *)"
     ]
   },
